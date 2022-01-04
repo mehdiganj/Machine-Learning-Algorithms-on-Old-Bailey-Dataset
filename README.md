@@ -1,4 +1,4 @@
-# Machine-Learning-Algorithms-on-Old-Bailey-Dataset
+# Machine Learning Algorithms on Old Bailey Dataset
 Implementing Different Machine Learning Algorithms on Old Bailey Decisions Dataset - Machine Learning Course
 
 In this project I implemented different classifiers to predict if the convicted person is guilty or not based on the transcript features and victim characteristic in the Old Bailey project.
